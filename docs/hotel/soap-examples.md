@@ -51,9 +51,6 @@ permalink: /docs/hotel/soap-examples
                         <Parameter key = "password" value = "XXXXXX"></Parameter>
                       </Parameters>
                     </Configuration>
-                    <AvailDestinations>
-                      <Destination type = "CTY" code = "XXX"/>
-                    </AvailDestinations>
                     <StartDate>08/08/2012</StartDate>
                     <EndDate>12/12/2012</EndDate>
                     <Currency>EUR</Currency>
